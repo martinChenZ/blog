@@ -1,0 +1,25 @@
+{
+    "code": 0,
+    "msg": "查询成功",
+    "data": [
+      {
+        "id": "1",
+        "name": "首页",
+        "url": "/index",
+        "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1545714013930&di=a89ca61ab46c4d3fe16c98bc0b5901d9&imgtype=0&src=http%3A%2F%2Fwww.icosky.com%2Ficon%2Fpng%2FSystem%2FiCandy%2520Junior%2FHome%25202.png"
+      },
+      {
+        "id": "2",
+        "name": "分类",
+        "url": "/type",
+        "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1545714013930&di=a89ca61ab46c4d3fe16c98bc0b5901d9&imgtype=0&src=http%3A%2F%2Fwww.icosky.com%2Ficon%2Fpng%2FSystem%2FiCandy%2520Junior%2FHome%25202.png"
+
+      },
+      {
+        "id": "3",
+        "name": "我的",
+        "url": "/member",
+        "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1545714013930&di=a89ca61ab46c4d3fe16c98bc0b5901d9&imgtype=0&src=http%3A%2F%2Fwww.icosky.com%2Ficon%2Fpng%2FSystem%2FiCandy%2520Junior%2FHome%25202.png"
+      }
+    ]
+  }
