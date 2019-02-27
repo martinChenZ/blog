@@ -1,0 +1,3462 @@
+[2018-11-20 14:43:30] Shadowsocks started (4.1.2)
+[2018-11-20 14:43:30] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-11-20 14:44:37] Shadowsocks started (4.1.2)
+[2018-11-20 14:44:37] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-11-20 14:44:50] Shadowsocks started (4.1.2)
+[2018-11-20 14:44:50] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-11-20 14:45:10] Shadowsocks started (4.1.2)
+[2018-11-20 14:45:10] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-11-20 14:47:15] 94.191.10.187:8801 timed out
+[2018-11-20 14:47:23] 94.191.10.187:8801 timed out
+[2018-11-20 14:47:38] 94.191.10.187:8801 timed out
+[2018-11-20 15:06:06] Shadowsocks started (4.1.2)
+[2018-11-20 15:06:06] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-11-20 15:06:45] Shadowsocks started (4.1.2)
+[2018-11-20 15:06:45] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-11-20 17:30:08] Shadowsocks started (4.1.2)
+[2018-11-20 17:30:08] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-11-21 15:02:12] Shadowsocks started (4.1.2)
+[2018-11-21 15:02:12] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-11-21 15:02:18] System.Reflection.TargetInvocationException: 操作过程中出现异常，结果无效。  有关异常的详细信息，请查看 InnerException。 ---> System.Net.WebException: 在 WebClient 请求期间发生异常。 ---> System.IO.IOException: 从传输流收到意外的 EOF 或 0 个字节。
+   在 System.Net.ConnectStream.EndRead(IAsyncResult asyncResult)
+   在 System.Net.WebClient.DownloadBitsReadCallbackState(DownloadBitsState state, IAsyncResult result)
+   --- 内部异常堆栈跟踪的结尾 ---
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.ComponentModel.AsyncCompletedEventArgs.RaiseExceptionIfNecessary()
+   在 Shadowsocks.Controller.UpdateChecker.http_DownloadStringCompleted(Object sender, DownloadStringCompletedEventArgs e)
+[2018-11-21 15:02:19] Shadowsocks started (4.1.2)
+[2018-11-21 15:02:19] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-11-21 15:19:50] 94.191.10.187:8801 timed out
+[2018-11-21 15:19:56] 94.191.10.187:8801 timed out
+[2018-11-21 15:20:01] 94.191.10.187:8801 timed out
+[2018-11-21 15:20:02] 94.191.10.187:8801 timed out
+[2018-11-21 15:20:07] 94.191.10.187:8801 timed out
+[2018-11-21 16:49:54] 94.191.10.187:8801 timed out
+[2018-11-21 19:05:39] 94.191.10.187:8801 timed out
+[2018-11-21 19:05:40] 94.191.10.187:8801 timed out
+[2018-11-21 19:05:45] 94.191.10.187:8801 timed out
+[2018-11-21 19:06:26] 94.191.10.187:8801 timed out
+[2018-11-21 20:34:43] 94.191.10.187:8801 timed out
+[2018-11-21 20:34:48] 94.191.10.187:8801 timed out
+[2018-11-22 16:37:31] Shadowsocks started (4.1.2)
+[2018-11-22 16:37:31] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-12-03 09:38:59] Shadowsocks started (4.1.2)
+[2018-12-03 09:38:59] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-12-03 11:34:31] Shadowsocks started (4.1.2)
+[2018-12-03 11:34:31] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-12-03 11:34:34] Shadowsocks started (4.1.2)
+[2018-12-03 11:34:34] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-12-04 11:18:22] Shadowsocks started (4.1.2)
+[2018-12-04 11:18:22] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-12-04 11:18:28] Shadowsocks started (4.1.2)
+[2018-12-04 11:18:28] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-12-06 15:07:29] Shadowsocks started (4.1.2)
+[2018-12-06 15:07:29] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-12-06 15:17:30] Shadowsocks started (4.1.2)
+[2018-12-06 15:17:30] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-12-07 16:07:34] Shadowsocks started (4.1.2)
+[2018-12-07 16:07:34] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-12-07 16:07:39] System.Reflection.TargetInvocationException: 操作过程中出现异常，结果无效。  有关异常的详细信息，请查看 InnerException。 ---> System.Net.WebException: 在 WebClient 请求期间发生异常。 ---> System.IO.IOException: 从传输流收到意外的 EOF 或 0 个字节。
+   在 System.Net.ConnectStream.EndRead(IAsyncResult asyncResult)
+   在 System.Net.WebClient.DownloadBitsReadCallbackState(DownloadBitsState state, IAsyncResult result)
+   --- 内部异常堆栈跟踪的结尾 ---
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.ComponentModel.AsyncCompletedEventArgs.RaiseExceptionIfNecessary()
+   在 Shadowsocks.Controller.UpdateChecker.http_DownloadStringCompleted(Object sender, DownloadStringCompletedEventArgs e)
+[2018-12-07 16:07:39] Shadowsocks started (4.1.2)
+[2018-12-07 16:07:39] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-12-07 16:07:55] Shadowsocks started (4.1.2)
+[2018-12-07 16:07:55] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-12-11 17:12:08] Shadowsocks started (4.1.2)
+[2018-12-11 17:12:08] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-12-11 17:12:15] Shadowsocks started (4.1.2)
+[2018-12-11 17:12:15] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-12-11 17:24:27] 94.191.10.187:8801 timed out
+[2018-12-11 17:24:35] 94.191.10.187:8801 timed out
+[2018-12-11 17:24:48] 94.191.10.187:8801 timed out
+[2018-12-11 17:39:52] 94.191.10.187:8801 timed out
+[2018-12-11 17:48:10] System.InvalidOperationException: 进程已退出，因此无法获得所请求的信息。
+   在 System.Diagnostics.Process.EnsureState(State state)
+   在 System.Diagnostics.Process.get_MainWindowHandle()
+   在 System.Diagnostics.Process.CloseMainWindow()
+   在 Shadowsocks.Controller.PrivoxyRunner.KillProcess(Process p)
+[2018-12-13 11:29:26] Shadowsocks started (4.1.2)
+[2018-12-13 11:29:26] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-12-13 11:44:02] 94.191.10.187:8801 timed out
+[2018-12-13 11:44:10] 94.191.10.187:8801 timed out
+[2018-12-13 11:44:25] 94.191.10.187:8801 timed out
+[2018-12-13 12:14:02] 94.191.10.187:8801 timed out
+[2018-12-13 12:14:10] 94.191.10.187:8801 timed out
+[2018-12-13 12:14:17] 94.191.10.187:8801 timed out
+[2018-12-13 12:14:22] 94.191.10.187:8801 timed out
+[2018-12-13 12:14:23] 94.191.10.187:8801 timed out
+[2018-12-13 12:44:02] 94.191.10.187:8801 timed out
+[2018-12-13 12:44:10] 94.191.10.187:8801 timed out
+[2018-12-13 12:44:25] 94.191.10.187:8801 timed out
+[2018-12-13 13:14:02] 94.191.10.187:8801 timed out
+[2018-12-13 13:14:10] 94.191.10.187:8801 timed out
+[2018-12-13 13:14:23] 94.191.10.187:8801 timed out
+[2018-12-13 13:14:29] 94.191.10.187:8801 timed out
+[2018-12-13 13:41:23] Shadowsocks started (4.1.2)
+[2018-12-13 13:41:23] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-12-13 16:59:38] Shadowsocks started (4.1.2)
+[2018-12-13 16:59:38] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-12-13 16:59:42] Shadowsocks started (4.1.2)
+[2018-12-13 16:59:42] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-12-13 17:01:41] Shadowsocks started (4.1.2)
+[2018-12-13 17:01:41] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-12-18 09:26:05] Shadowsocks started (4.1.2)
+[2018-12-18 09:26:05] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-12-18 09:26:12] 94.191.10.187:8801 timed out
+[2018-12-18 09:26:17] System.Reflection.TargetInvocationException: 操作过程中出现异常，结果无效。  有关异常的详细信息，请查看 InnerException。 ---> System.Net.WebException: 基础连接已经关闭: 发送时发生错误。 ---> System.IO.IOException: 由于远程方已关闭传输流，身份验证失败。
+   在 System.Net.TlsStream.EndWrite(IAsyncResult asyncResult)
+   在 System.Net.PooledStream.EndWrite(IAsyncResult asyncResult)
+   在 System.Net.ConnectStream.WriteHeadersCallback(IAsyncResult ar)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   在 System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   在 System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.ComponentModel.AsyncCompletedEventArgs.RaiseExceptionIfNecessary()
+   在 Shadowsocks.Controller.UpdateChecker.http_DownloadStringCompleted(Object sender, DownloadStringCompletedEventArgs e)
+[2018-12-18 09:26:17] Shadowsocks started (4.1.2)
+[2018-12-18 09:26:17] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-12-18 09:26:24] 94.191.10.187:8801 timed out
+[2018-12-18 09:26:24] 94.191.10.187:8801 timed out
+[2018-12-18 09:26:24] 94.191.10.187:8801 timed out
+[2018-12-18 09:27:03] Shadowsocks started (4.1.2)
+[2018-12-18 09:27:03] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-12-20 10:29:35] Shadowsocks started (4.1.2)
+[2018-12-20 10:29:35] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-12-20 10:29:38] Shadowsocks started (4.1.2)
+[2018-12-20 10:29:38] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-12-20 10:38:40] Shadowsocks started (4.1.2)
+[2018-12-20 10:38:40] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-12-20 17:22:49] Shadowsocks started (4.1.2)
+[2018-12-20 17:22:49] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-12-20 17:22:52] Shadowsocks started (4.1.2)
+[2018-12-20 17:22:52] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-12-20 17:25:45] Shadowsocks started (4.1.2)
+[2018-12-20 17:25:45] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-12-24 10:19:03] Shadowsocks started (4.1.2)
+[2018-12-24 10:19:04] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-12-24 10:19:08] Shadowsocks started (4.1.2)
+[2018-12-24 10:19:08] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-12-24 10:46:02] Shadowsocks started (4.1.2)
+[2018-12-24 10:46:02] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-12-24 11:43:10] Shadowsocks started (4.1.2)
+[2018-12-24 11:43:10] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-12-24 11:43:41] Shadowsocks started (4.1.2)
+[2018-12-24 11:43:41] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-12-24 11:47:53] Shadowsocks started (4.1.2)
+[2018-12-24 11:47:53] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-12-25 09:53:33] Shadowsocks started (4.1.2)
+[2018-12-25 09:53:34] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-12-25 09:53:37] Shadowsocks started (4.1.2)
+[2018-12-25 09:53:37] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-12-25 13:39:17] Shadowsocks started (4.1.2)
+[2018-12-25 13:39:17] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-12-26 16:52:54] Shadowsocks started (4.1.2)
+[2018-12-26 16:52:54] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-12-26 16:52:57] Shadowsocks started (4.1.2)
+[2018-12-26 16:52:57] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-12-26 17:08:42] Shadowsocks started (4.1.2)
+[2018-12-26 17:08:42] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-12-27 09:04:13] Shadowsocks started (4.1.2)
+[2018-12-27 09:04:13] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-12-27 09:05:13] Shadowsocks started (4.1.2)
+[2018-12-27 09:05:13] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-12-27 10:12:51] Shadowsocks started (4.1.2)
+[2018-12-27 10:12:51] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-12-27 10:18:40] Shadowsocks started (4.1.2)
+[2018-12-27 10:18:40] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-12-27 13:38:14] Shadowsocks started (4.1.2)
+[2018-12-27 13:38:14] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-12-27 14:14:41] Shadowsocks started (4.1.2)
+[2018-12-27 14:14:41] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-12-28 15:24:32] Shadowsocks started (4.1.2)
+[2018-12-28 15:24:32] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-12-28 16:33:33] Shadowsocks started (4.1.2)
+[2018-12-28 16:33:33] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-12-31 14:40:10] Shadowsocks started (4.1.2)
+[2018-12-31 14:40:10] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-12-31 14:40:16] Shadowsocks started (4.1.2)
+[2018-12-31 14:40:16] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-12-31 14:40:57] Shadowsocks started (4.1.2)
+[2018-12-31 14:40:57] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-01-03 10:18:27] Shadowsocks started (4.1.2)
+[2019-01-03 10:18:27] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-01-03 10:18:30] Shadowsocks started (4.1.2)
+[2019-01-03 10:18:30] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-01-03 10:40:04] System.Net.Sockets.SocketException (0x80004005): 由于以前的关闭调用，套接字在那个方向已经关闭，发送或接收数据的请求没有被接受。
+   在 System.Net.Sockets.Socket.BeginSend(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   在 Shadowsocks.Controller.TCPHandler.PipeRemoteReceiveCallback(IAsyncResult ar)
+[2019-01-03 10:40:04] Shadowsocks started (4.1.2)
+[2019-01-03 10:40:04] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-01-23 09:10:52] System.Reflection.TargetInvocationException: 操作过程中出现异常，结果无效。  有关异常的详细信息，请查看 InnerException。 ---> System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:1080
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   在 System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   在 System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.ComponentModel.AsyncCompletedEventArgs.RaiseExceptionIfNecessary()
+   在 Shadowsocks.Controller.UpdateChecker.http_DownloadStringCompleted(Object sender, DownloadStringCompletedEventArgs e)
+[2019-01-23 09:10:55] Shadowsocks started (4.1.2)
+[2019-01-23 09:10:55] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-01-23 09:10:58] Shadowsocks started (4.1.2)
+[2019-01-23 09:10:58] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-01-23 09:26:42] Shadowsocks started (4.1.2)
+[2019-01-23 09:26:42] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-01-23 15:33:31] Shadowsocks started (4.1.2)
+[2019-01-23 15:33:32] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-01-23 15:33:34] Shadowsocks started (4.1.2)
+[2019-01-23 15:33:34] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-01-23 15:45:10] 94.191.10.187:8801 timed out
+[2019-01-23 15:45:13] 94.191.10.187:8801 timed out
+[2019-01-23 15:45:15] 94.191.10.187:8801 timed out
+[2019-01-23 15:45:18] 94.191.10.187:8801 timed out
+[2019-01-23 15:45:20] 94.191.10.187:8801 timed out
+[2019-01-23 15:45:24] 94.191.10.187:8801 timed out
+[2019-01-23 15:45:25] 94.191.10.187:8801 timed out
+[2019-01-23 15:45:25] Shadowsocks started (4.1.2)
+[2019-01-23 15:45:25] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-01-24 13:49:25] Shadowsocks started (4.1.2)
+[2019-01-24 13:49:25] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-01-24 13:49:56] System.Net.WebException: 在 WebClient 请求期间发生异常。 ---> System.IO.IOException: 从传输流收到意外的 EOF 或 0 个字节。
+   在 System.Net.ConnectStream.EndRead(IAsyncResult asyncResult)
+   在 System.Net.WebClient.DownloadBitsReadCallbackState(DownloadBitsState state, IAsyncResult result)
+   --- 内部异常堆栈跟踪的结尾 ---
+[2019-01-24 13:49:56] Shadowsocks started (4.1.2)
+[2019-01-24 13:49:56] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-01-24 13:59:28] Shadowsocks started (4.1.2)
+[2019-01-24 13:59:28] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-01-24 14:00:46] Shadowsocks started (4.1.2)
+[2019-01-24 14:00:47] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-01-24 14:00:51] Shadowsocks started (4.1.2)
+[2019-01-24 14:00:51] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-01-24 14:02:38] Shadowsocks started (4.1.2)
+[2019-01-24 14:02:38] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-01-24 15:35:02] Shadowsocks started (4.1.2)
+[2019-01-24 15:35:02] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-01-24 15:35:07] Shadowsocks started (4.1.2)
+[2019-01-24 15:35:07] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-01-24 15:42:34] Shadowsocks started (4.1.2)
+[2019-01-24 15:42:34] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-01-24 15:49:24] Shadowsocks started (4.1.2)
+[2019-01-24 15:49:24] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-01-24 15:49:30] System.Net.WebException: 在 WebClient 请求期间发生异常。 ---> System.IO.IOException: 从传输流收到意外的 EOF 或 0 个字节。
+   在 System.Net.ConnectStream.EndRead(IAsyncResult asyncResult)
+   在 System.Net.WebClient.DownloadBitsReadCallbackState(DownloadBitsState state, IAsyncResult result)
+   --- 内部异常堆栈跟踪的结尾 ---
+[2019-01-24 15:49:31] Shadowsocks started (4.1.2)
+[2019-01-24 15:49:31] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-01-24 15:51:55] Shadowsocks started (4.1.2)
+[2019-01-24 15:51:55] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-01-31 10:57:38] Shadowsocks started (4.1.2)
+[2019-01-31 10:57:38] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-01-31 10:57:43] Shadowsocks started (4.1.2)
+[2019-01-31 10:57:43] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-01-31 10:58:27] Shadowsocks started (4.1.2)
+[2019-01-31 10:58:27] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-02-11 09:18:20] Shadowsocks started (4.1.2)
+[2019-02-11 09:18:20] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-02-11 09:18:28] System.Net.WebException: 在 WebClient 请求期间发生异常。 ---> System.IO.IOException: 从传输流收到意外的 EOF 或 0 个字节。
+   在 System.Net.ConnectStream.EndRead(IAsyncResult asyncResult)
+   在 System.Net.WebClient.DownloadBitsReadCallbackState(DownloadBitsState state, IAsyncResult result)
+   --- 内部异常堆栈跟踪的结尾 ---
+[2019-02-11 09:18:28] Shadowsocks started (4.1.2)
+[2019-02-11 09:18:28] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-02-11 09:27:03] Shadowsocks started (4.1.2)
+[2019-02-11 09:27:03] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-02-13 15:47:35] Shadowsocks started (4.1.2)
+[2019-02-13 15:47:35] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-02-13 15:47:42] Shadowsocks started (4.1.2)
+[2019-02-13 15:47:42] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-02-13 16:08:37] System.Net.WebException: 在 WebClient 请求期间发生异常。 ---> System.IO.IOException: 从传输流收到意外的 EOF 或 0 个字节。
+   在 System.Net.ConnectStream.EndRead(IAsyncResult asyncResult)
+   在 System.Net.WebClient.DownloadBitsReadCallbackState(DownloadBitsState state, IAsyncResult result)
+   --- 内部异常堆栈跟踪的结尾 ---
+[2019-02-13 16:08:37] Shadowsocks started (4.1.2)
+[2019-02-13 16:08:37] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-02-13 16:11:43] Shadowsocks started (4.1.2)
+[2019-02-13 16:11:43] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-02-13 16:29:28] Shadowsocks started (4.1.2)
+[2019-02-13 16:29:28] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-02-14 09:59:48] Shadowsocks started (4.1.2)
+[2019-02-14 09:59:49] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-02-14 09:59:51] Shadowsocks started (4.1.2)
+[2019-02-14 09:59:51] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-02-14 12:10:23] Shadowsocks started (4.1.2)
+[2019-02-14 12:10:23] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-02-18 14:09:16] Shadowsocks started (4.1.2)
+[2019-02-18 14:09:16] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-02-18 14:09:31] System.Net.WebException: 在 WebClient 请求期间发生异常。 ---> System.IO.IOException: 从传输流收到意外的 EOF 或 0 个字节。
+   在 System.Net.ConnectStream.EndRead(IAsyncResult asyncResult)
+   在 System.Net.WebClient.DownloadBitsReadCallbackState(DownloadBitsState state, IAsyncResult result)
+   --- 内部异常堆栈跟踪的结尾 ---
+[2019-02-18 14:09:35] Shadowsocks started (4.1.2)
+[2019-02-18 14:09:35] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-02-18 14:22:45] Shadowsocks started (4.1.2)
+[2019-02-18 14:22:45] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-02-18 15:53:27] Shadowsocks started (4.1.2)
+[2019-02-18 15:53:27] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-02-18 15:53:30] Shadowsocks started (4.1.2)
+[2019-02-18 15:53:30] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-02-19 11:14:56] Shadowsocks started (4.1.2)
+[2019-02-19 11:14:56] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-02-19 11:27:08] Shadowsocks started (4.1.2)
+[2019-02-19 11:27:08] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-02-19 11:28:21] Shadowsocks started (4.1.2)
+[2019-02-19 11:28:21] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-02-19 11:28:26] Shadowsocks started (4.1.2)
+[2019-02-19 11:28:26] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-02-19 11:47:06] Shadowsocks started (4.1.2)
+[2019-02-19 11:47:06] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-02-19 15:53:31] Shadowsocks started (4.1.2)
+[2019-02-19 15:53:31] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-02-19 16:52:00] Shadowsocks started (4.1.2)
+[2019-02-19 16:52:00] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-02-19 16:56:54] Shadowsocks started (4.1.2)
+[2019-02-19 16:56:54] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-02-19 16:56:57] Shadowsocks started (4.1.2)
+[2019-02-19 16:56:57] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-02-20 09:33:56] Shadowsocks started (4.1.2)
+[2019-02-20 09:33:56] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-02-20 09:35:20] Detected: PAC file 'pac.txt' was created.
+[2019-02-20 09:35:20] Detected: PAC file 'pac.txt' was changed.
+[2019-02-20 09:35:58] Shadowsocks started (4.1.2)
+[2019-02-20 09:35:58] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-02-20 09:36:02] Shadowsocks started (4.1.2)
+[2019-02-20 09:36:02] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-02-20 13:38:54] Shadowsocks started (4.1.2)
+[2019-02-20 13:38:54] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-02-21 09:37:03] Shadowsocks started (4.1.2)
+[2019-02-21 09:37:03] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-02-21 09:37:05] Shadowsocks started (4.1.2)
+[2019-02-21 09:37:05] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-02-21 11:10:17] Shadowsocks started (4.1.2)
+[2019-02-21 11:10:17] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-02-21 11:13:21] Shadowsocks started (4.1.2)
+[2019-02-21 11:13:21] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-02-21 11:13:24] Shadowsocks started (4.1.2)
+[2019-02-21 11:13:24] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-02-21 11:15:25] Shadowsocks started (4.1.2)
+[2019-02-21 11:15:25] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-02-21 11:25:58] Shadowsocks started (4.1.2)
+[2019-02-21 11:25:58] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-02-21 11:26:04] Shadowsocks started (4.1.2)
+[2019-02-21 11:26:04] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-02-21 11:26:45] 94.191.10.187:8801 timed out
+[2019-02-21 11:29:14] Shadowsocks started (4.1.2)
+[2019-02-21 11:29:14] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-02-21 11:35:38] Shadowsocks started (4.1.2)
+[2019-02-21 11:35:38] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-02-21 11:36:09] Shadowsocks started (4.1.2)
+[2019-02-21 11:36:09] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-02-21 11:36:11] Shadowsocks started (4.1.2)
+[2019-02-21 11:36:11] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-02-21 13:43:51] Shadowsocks started (4.1.2)
+[2019-02-21 13:43:51] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-02-21 15:16:33] Shadowsocks started (4.1.2)
+[2019-02-21 15:16:33] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-02-21 15:16:36] Shadowsocks started (4.1.2)
+[2019-02-21 15:16:36] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-02-21 17:34:58] Shadowsocks started (4.1.2)
+[2019-02-21 17:34:58] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-02-22 11:46:37] Shadowsocks started (4.1.2)
+[2019-02-22 11:46:38] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-02-22 11:46:40] Shadowsocks started (4.1.2)
+[2019-02-22 11:46:40] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-02-22 16:19:29] Shadowsocks started (4.1.2)
+[2019-02-22 16:19:29] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-02-26 16:19:37] Shadowsocks started (4.1.2)
+[2019-02-26 16:19:37] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-02-26 16:21:40] Shadowsocks started (4.1.2)
+[2019-02-26 16:21:40] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2019-02-26 16:21:50] Shadowsocks started (4.1.2)
+[2019-02-26 16:21:50] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
