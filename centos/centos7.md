@@ -58,3 +58,11 @@ NetworkManager重新装载上面修改的配置
 手工修改 /etc/resolv.conf
 nameserver 114.114.114.114
 nameserver 8.8.8.8
+
+
+
+
+
+
+
+查看当前路径命令：pwd
