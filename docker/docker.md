@@ -30,3 +30,6 @@
 方法一：如果要正常退出不关闭容器，请按Ctrl+P+Q进行退出容器
 ### 退出容器
 方法二：如果使用exit退出
+
+
+docker run -d -p 1988:1988 oddrationale/docker-shadowsocks -s 0.0.0.0 -p 1988 -k kl2426 -m aes-256-cfb

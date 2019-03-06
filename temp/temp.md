@@ -1,0 +1,1 @@
+ SELECT * FROM `xs_chapter` WHERE ( (name_id = 1351 AND chapter_name = '第一章 琅琊苏败') OR (name_id = 1351 AND chapter_name = '第二章 突破如饮水') )
